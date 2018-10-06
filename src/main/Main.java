@@ -10,7 +10,7 @@ import controllers.ControllerAgenda;
 
 /**
  *
- * @author Zeo
+ * @author abi
  */
 public class Main {
 
